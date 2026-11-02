@@ -1,0 +1,706 @@
+[
+  {
+    "id": "pub-3dffc3babce2",
+    "text": "Li, M.#, Ye, Y.#, Pan, Z.#, Zhang, J., Zhao, S., Wei, L.*, Wang, S., Liu, F., Liang. H.. An MRI-Compatible Pneumatic Servo Motor: Position-Speed-Torque Control with Long Air Tubes. IEEE/ASME Transactions on Mechatronics, 2027. (JCR Q1, Accept)",
+    "title": "An MRI-Compatible Pneumatic Servo Motor: Position-Speed-Torque Control with Long Air Tubes",
+    "year": "2027",
+    "category": "Journals",
+    "url": ""
+  },
+  {
+    "id": "pub-d9ddb6f9c6af",
+    "text": "Ye, Y., Pan, Z., Xu, H., Peng, M., Wei, L., Li, M.*. Compensated Incremental Nonlinear Dynamic Inversion for Velocity Control of Long-Tube-Driven MRI-Compatible Pneumatic Motors. Control Engineering Practice, 2027. (JCR Q1, Accept)",
+    "title": "Compensated Incremental Nonlinear Dynamic Inversion for Velocity Control of Long-Tube-Driven MRI-Compatible Pneumatic Motors",
+    "year": "2027",
+    "category": "Journals",
+    "url": ""
+  },
+  {
+    "id": "pub-53c21ba87c70",
+    "text": "Wei, L., Chen, Z., Chen, B., Liu, T., Xu, H., Tan, X., Li, M., Fan, Y., Sun, Y.*. State of Health Estimation Method for Lithium-ion Batteries based on Random Partial Charging Curves with Graphical Features. Journal of Energy Storage, 2027. (JCR Q1). Link",
+    "title": "State of Health Estimation Method for Lithium-ion Batteries based on Random Partial Charging Curves with Graphical Features",
+    "year": "2027",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352152X26041721"
+  },
+  {
+    "id": "pub-63f12ef66e96",
+    "text": "Zhang, R.#, Lei, J.#, Shen, K., Guo, H., Zhou, J., Chen, B., Li, M., Zhao, S.*, Li, S.. TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake. Medical Image Analysis, 2027. (JCR Q1). Link",
+    "title": "TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake",
+    "year": "2027",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1361841526003464"
+  },
+  {
+    "id": "pub-505de918786e",
+    "text": "Xiang, R.#, Ye, Y.#, Wang, X.#, Liu, H., Li, M.*, Guo, R.. A CDE Operator Learning Framework for Forward Kinematics of Heterogeneous Parallel Robots. Communications in Nonlinear Science and Numerical Simulation, 2026. (JCR Q1). Link",
+    "title": "A CDE Operator Learning Framework for Forward Kinematics of Heterogeneous Parallel Robots",
+    "year": "2026",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1007570426005630"
+  },
+  {
+    "id": "pub-bf80144ec9f4",
+    "text": "Li, M., Ye, Y., Pan, Z., Zhang, J., Zhao, S., Wei, L.*, Wang, S., Liu, F.. Estimation of Unmeasurable States in an MRI-Safe Pneumatic Motor Enabling Torque-Based Servo Control. Control Engineering Practice, 2026. (JCR Q1). Link",
+    "title": "Estimation of Unmeasurable States in an MRI-Safe Pneumatic Motor Enabling Torque-Based Servo Control",
+    "year": "2026",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0967066126001450?dgcid=author"
+  },
+  {
+    "id": "pub-1abfa6e5cd4e",
+    "text": "Wei, L., Chen, Z., Xu, H., Liu, T., Xiang, R., Tan, X., Li, M.*, Fan, Y.*. A SOH Estimation Method for Lithium-Ion Battery Based on Partial Charging Data Reconstruction With Physical Information Constraints. IEEE Transactions on Industrial Electronics, 2026. (JCR Q1). Link",
+    "title": "A SOH Estimation Method for Lithium-Ion Battery Based on Partial Charging Data Reconstruction With Physical Information Constraints",
+    "year": "2026",
+    "category": "Journals",
+    "url": "https://ieeexplore.ieee.org/document/11421564"
+  },
+  {
+    "id": "pub-546b6483921f",
+    "text": "Li, M.*., Zhao, S., Wang, S.*, Liu, F.. Enhanced Flexibility and Dexterity in Robotic Endoscopy via a 6-DOF Parallel Mechanism and Eye-Gaze-Assisted Field-of-View Control. Robotics and Autonomous Systems, 2026. (JCR Q1). Link",
+    "title": "Enhanced Flexibility and Dexterity in Robotic Endoscopy via a 6-DOF Parallel Mechanism and Eye-Gaze-Assisted Field-of-View Control",
+    "year": "2026",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0921889025004191?dgcid=author"
+  },
+  {
+    "id": "pub-baeee37d3eba",
+    "text": "Wang, B., Zhang, J., Pan, Z., Zhao, S., Li, M.*., Liu, H.*. Automatic field-of-view Adjustment for Multi-surgical Tools of A Novel Continuum Laparoscopic Robot. Measurement, 2026. (JCR Q1). Link",
+    "title": "Automatic field-of-view Adjustment for Multi-surgical Tools of A Novel Continuum Laparoscopic Robot",
+    "year": "2026",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0263224125019037"
+  },
+  {
+    "id": "pub-b543777c047c",
+    "text": "Zhang, J., Wang, B., Pan, Z., Li, M.*. GazeScope: A Framework of Gaze Attention-based Automatic Field-of-View Adjustment for Laparoscopic Robots. IEEE Robotics and Automation Letters, 2025. (JCR Q1). Link",
+    "title": "GazeScope: A Framework of Gaze Attention-based Automatic Field-of-View Adjustment for Laparoscopic Robots",
+    "year": "2025",
+    "category": "Journals",
+    "url": "https://ieeexplore.ieee.org/document/11003575"
+  },
+  {
+    "id": "pub-f4e2392aa889",
+    "text": "Li, M.*. Beyond Conventional Drones: A Review of Unconventional Rotary-Wing UAV Design. Drones, 2025. (JCR Q1). Link",
+    "title": "Beyond Conventional Drones: A Review of Unconventional Rotary-Wing UAV Design",
+    "year": "2025",
+    "category": "Journals",
+    "url": "https://www.mdpi.com/2504-446X/9/5/323"
+  },
+  {
+    "id": "pub-a07b38854152",
+    "text": "Wang, S., Tang, J., Tan, X.*, Li, M.*.. A Multifactorial Evolutionary Algorithm to Detect Stably Influential Seeds from Competitive Networks under Multiple Damage Scenarios. Swarm and Evolutionary Computation, 2025. (JCR Q1) Link",
+    "title": "A Multifactorial Evolutionary Algorithm to Detect Stably Influential Seeds from Competitive Networks under Multiple Damage Scenarios",
+    "year": "2025",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S221065022500344X"
+  },
+  {
+    "id": "pub-4632497d0992",
+    "text": "Wei, L., Diao, Q., Sun, Y., Li, M.*, Liu, H.*. State of Health Estimation based on PSO-SA-LSTM for Fast- chage Lithium-ion Batteries. Ionics, 2024. (JCR Q3). Link",
+    "title": "State of Health Estimation based on PSO-SA-LSTM for Fast- chage Lithium-ion Batteries",
+    "year": "2024",
+    "category": "Journals",
+    "url": "https://link.springer.com/article/10.1007/s11581-024-05954-y"
+  },
+  {
+    "id": "pub-b7a11a394754",
+    "text": "Wang, J., Xiang, R., Xiang, J., Wang, B., Wu, X., Cai, M., Pan, Z., Li, M.*, Li, X.. Modeling, Analysis and Evaluation of a Novel Compact 6 DoF 3-RRRS Needle Biopsy Robot. Mathematics, 2024. (JCR Q1). Link",
+    "title": "Modeling, Analysis and Evaluation of a Novel Compact 6 DoF 3-RRRS Needle Biopsy Robot",
+    "year": "2024",
+    "category": "Journals",
+    "url": "https://www.mdpi.com/2227-7390/12/10/1461"
+  },
+  {
+    "id": "pub-e5242ce68649",
+    "text": "Pan, Z., Ye. Y, Wang, J., Wang, X., Zhang, J., Peng, J., Li, M.*. Cornerstone for MRI-compatible Robots: A Continuous Pneumatic Actuator with Easy-to-Connect Prismatic/Revolute and Bidirectional Encoder Modules. Measurement, 2024. (JCR Q1). Link",
+    "title": "Cornerstone for MRI-compatible Robots: A Continuous Pneumatic Actuator with Easy-to-Connect Prismatic/Revolute and Bidirectional Encoder Modules",
+    "year": "2024",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0263224124005700"
+  },
+  {
+    "id": "pub-33e0d46c6dea",
+    "text": "Pan, Z., Zhu, J., Zhang, J., Li, W., Jia, G., Luo, W., Peng, J., Li, M.*. An Eye-Gaze-Controlled Needle Deployment Robot: Design, Modeling, and Experimental Evaluation. IEEE Transactions on Instrumentation and Measurement, 2024. (JCR Q1). Link",
+    "title": "An Eye-Gaze-Controlled Needle Deployment Robot: Design, Modeling, and Experimental Evaluation",
+    "year": "2024",
+    "category": "Journals",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10445779/"
+  },
+  {
+    "id": "pub-67accedd3425",
+    "text": "Chen, Q.#, Li, M.#, Wu, H., Liu, W., Peng, J.*. Design, Self-calibration and Compliance Control of Modular Cable-driven Snake-like Manipulators. Mechanism and Machine Theory, 2024. (JCR Q1). Link",
+    "title": "Design, Self-calibration and Compliance Control of Modular Cable-driven Snake-like Manipulators",
+    "year": "2024",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0094114X23003336"
+  },
+  {
+    "id": "pub-9c4b4f5d19ad",
+    "text": "Li, M.*. Design and Stability Analysis of A Nonlinear Controller for MRI Compatible Pneumatic Motors. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 2024. (JCR Q3). Link",
+    "title": "Design and Stability Analysis of A Nonlinear Controller for MRI Compatible Pneumatic Motors",
+    "year": "2024",
+    "category": "Journals",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09544062231171994"
+  },
+  {
+    "id": "pub-f28d72216654",
+    "text": "Peng, J., Zhou, W., Han, Y., Li, M.*, Liu, W.. Deep Learning based Autonomous Real Time Digital Meter Reading Recognition Method for Natural Scenes. Measurement, 2023. (JCR Q1). Link",
+    "title": "Deep Learning based Autonomous Real Time Digital Meter Reading Recognition Method for Natural Scenes",
+    "year": "2023",
+    "category": "Journals",
+    "url": "https://www.sciencedirect.com/science/article/pii/S026322412301179X"
+  },
+  {
+    "id": "pub-0aa96802c645",
+    "text": "Li, M.*. Design and Evaluation of A Pulsatile Flow Rotary Vane Blood Pump. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 2023. (JCR Q3). Link",
+    "title": "Design and Evaluation of A Pulsatile Flow Rotary Vane Blood Pump",
+    "year": "2023",
+    "category": "Journals",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09544062221139609"
+  },
+  {
+    "id": "pub-eca916b6edd6",
+    "text": "Li, M.*, Jia, G., Li, X., Qiu, H.. Efficient Trajectory Planning for Optimizing Energy Consumption and Completion Time in UAV-Assisted IoT Networks. Mathematics, 2023. (JCR Q1). Link",
+    "title": "Efficient Trajectory Planning for Optimizing Energy Consumption and Completion Time in UAV-Assisted IoT Networks",
+    "year": "2023",
+    "category": "Journals",
+    "url": "https://www.mdpi.com/2227-7390/11/20/4399"
+  },
+  {
+    "id": "pub-0442bed7d77b",
+    "text": "Jia, G., Li, C., Li, M.*. Energy-Efficient Trajectory Planning for Smart Sensing in IoT Networks Using Quadrotor UAVs. Sensors, 2022. (JCR Q2). Link",
+    "title": "Energy-Efficient Trajectory Planning for Smart Sensing in IoT Networks Using Quadrotor UAVs",
+    "year": "2022",
+    "category": "Journals",
+    "url": "https://www.mdpi.com/1424-8220/22/22/8729"
+  },
+  {
+    "id": "pub-1a18f176560b",
+    "text": "Qiu, Q.#, Zhu, J.#, Gou, C., Li, M.*. Eye Gaze Estimation Based on Stacked Hourglass Neural Network for Aircraft Helmet Aiming. International Journal of Aerospace Engineering, 2022. (JCR Q3). Link",
+    "title": "Eye Gaze Estimation Based on Stacked Hourglass Neural Network for Aircraft Helmet Aiming",
+    "year": "2022",
+    "category": "Journals",
+    "url": "https://www.hindawi.com/journals/ijae/2022/5818231/"
+  },
+  {
+    "id": "pub-b0f8a2945b95",
+    "text": "Li, M.*, Chen, Y., Slepian, M., Howard, J., Thomas, S., Barth, E.. Design, Modeling, and Experimental Characterization of A Valveless Pulsatile Flow Mechanical Circulatory Support Device. Journal of Medical Devices - Trans of the ASME, 2021. (JCR Q4). Link",
+    "title": "Design, Modeling, and Experimental Characterization of A Valveless Pulsatile Flow Mechanical Circulatory Support Device",
+    "year": "2021",
+    "category": "Journals",
+    "url": "https://asmedigitalcollection.asme.org/medicaldevices/article/15/2/021009/1094189/Design-Modeling-and-Experimental-Characterization"
+  },
+  {
+    "id": "pub-a209b409ef74",
+    "text": "Li, M.*, Slepian, M., Barth, E.. Bond Graph Modeling of Mechanical Circulatory Support (MCS) Cardiovascular System Interactions. Journal of Biomechanical Engineering - Trans of the ASME, 2020. (JCR Q3). Link",
+    "title": "Bond Graph Modeling of Mechanical Circulatory Support (MCS) Cardiovascular System Interactions",
+    "year": "2020",
+    "category": "Journals",
+    "url": "https://asmedigitalcollection.asme.org/biomechanical/article-abstract/142/8/084501/1072290"
+  },
+  {
+    "id": "pub-5f82176f4d2c",
+    "text": "Roka-Moiia, Y., Li, M., Ivich, A., Muslmani, S., Kern, K., Slepian, M.*.Impella 5.5 Versus Centrimag A Head to Head Comparison of Device Hemocompatibility. ASAIO Journal, 2020. (JCR Q2). Link",
+    "title": "Impella 5.5 Versus Centrimag A Head to Head Comparison of Device Hemocompatibility",
+    "year": "2020",
+    "category": "Journals",
+    "url": "https://journals.lww.com/asaiojournal/fulltext/2020/11000/Impella_5_5_Versus_Centrimag__A_Head_to_Head.14.aspx?context=FeaturedArticles&collectionId=4"
+  },
+  {
+    "id": "pub-9188d57f7238",
+    "text": "Li, M., Walk, R., Roka-Moiia, Y., Sheriff, J., Bluestein, D., Barth, E., Slepian, M.*. Circulatory Loop Design and Constituent Components Introduce Artifacts Impacting In-Vitro Evaluation of Ventricular Assist Device Thrombogenicity. Artificial Organs, 2019. (JCR Q3). Link",
+    "title": "Circulatory Loop Design and Constituent Components Introduce Artifacts Impacting In-Vitro Evaluation of Ventricular Assist Device Thrombogenicity",
+    "year": "2019",
+    "category": "Journals",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/aor.13626"
+  },
+  {
+    "id": "pub-79570854cd68",
+    "text": "Li, M., Foss, R., Stelson, K., Van de Ven, J., Barth, E.*. Design, Dynamic Modelling and Experiment Validation of a Novel Alternating Flow Variable Displacement Hydraulic Pump. IEEE/ASME Transactions on Mechatronics, 2019. (JCR Q1). Link",
+    "title": "Design, Dynamic Modelling and Experiment Validation of a Novel Alternating Flow Variable Displacement Hydraulic Pump",
+    "year": "2019",
+    "category": "Journals",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8672476"
+  },
+  {
+    "id": "pub-eb9c078c7527",
+    "text": "Li, M.*, Barth, E.. Spherical Gerotor: Synthesis of a Novel Valvesless Pulsatile Flow Spherical Total Artificial Heart. Journal of Mechanics Engineering and Automation, 2018. (JCR Q4). Link",
+    "title": "Spherical Gerotor: Synthesis of a Novel Valvesless Pulsatile Flow Spherical Total Artificial Heart",
+    "year": "2018",
+    "category": "Journals",
+    "url": "http://www.davidpublisher.com/index.php/Home/Article/index?id=38217.html"
+  },
+  {
+    "id": "pub-8ec88eabf274",
+    "text": "Li, M.*, Li, W., Xu, H.. A Continuum Laparoscopic Robot with Distal Zoom and Orientation Decoupling for Automatic Field-of-View Control. 2026 3rd International Conference on Intelligent Systems and Robotics (CISR), Ningbo, China, 2026. Link",
+    "title": "A Continuum Laparoscopic Robot with Distal Zoom and Orientation Decoupling for Automatic Field-of-View Control",
+    "year": "2026",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/11680386"
+  },
+  {
+    "id": "pub-436dab69e656",
+    "text": "Wu, M.#, Chen, H.#, Zhang, J., Wang, B., Wei, L., Li, M.*. A Dual-Mode Asynchronous ESKF Framework for Pose Estimation of Cable-Driven Parallel Robots. 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Pittsburgh, USA, 2026. (Accepted)",
+    "title": "A Dual-Mode Asynchronous ESKF Framework for Pose Estimation of Cable-Driven Parallel Robots",
+    "year": "2026",
+    "category": "Conference Papers",
+    "url": ""
+  },
+  {
+    "id": "pub-7ef52a70ab23",
+    "text": "Chen, H.#, Wu, M.#, Zhang, J., Wang, B., Wei, L., Li, M.*. Topology-Guided Cable Routing for Collision-Free Large Rotational Workspace in Fully Constrained 8-CDPRs. 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Pittsburgh, USA, 2026. (Accepted)",
+    "title": "Topology-Guided Cable Routing for Collision-Free Large Rotational Workspace in Fully Constrained 8-CDPRs",
+    "year": "2026",
+    "category": "Conference Papers",
+    "url": ""
+  },
+  {
+    "id": "pub-b86d6d16db9a",
+    "text": "Li, M.*, Xu, H.. Mechanical Design and Mathematical Derivation of A Quad-Chamber Valveless Rotary Blood Pump. 2025 5th International Conference on Robotics, Automation and Intelligent Control (ICRAIC), Chengdu, China, 2025. Link",
+    "title": "Mechanical Design and Mathematical Derivation of A Quad-Chamber Valveless Rotary Blood Pump",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/11376374"
+  },
+  {
+    "id": "pub-b99f4eebf42b",
+    "text": "Chen, H., Wu, M., Chang, Y., Yan, P., Li, M.*. Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying. 2025 China Automation Congress (CAC), Haerbin, China, 2025. Link",
+    "title": "Construction and Kinematic Analysis of a Cable-Driven Parallel Robot for Tile Laying",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11487707"
+  },
+  {
+    "id": "pub-769458bbb5f0",
+    "text": "Zhang, J., Li, M.*. EndoSim: A Versatile Simulation Platform for Field-of-View Control Optimization in Endoscopic Robots. 2025 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Zhangjiajie, China, 2025. Link",
+    "title": "EndoSim: A Versatile Simulation Platform for Field-of-View Control Optimization in Endoscopic Robots",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-95-6825-3_8"
+  },
+  {
+    "id": "pub-edc84dbd1703",
+    "text": "Chen, H., Chang, Y., Yan, P., Wu, M., Li, M.*. A Novel Three-Finger Robotic Manipulator with Flexible Flexure Belt Mechanism for Precision and Compliant Grasping. 2025 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Zhangjiajie, China, 2025. Link",
+    "title": "A Novel Three-Finger Robotic Manipulator with Flexible Flexure Belt Mechanism for Precision and Compliant Grasping",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-95-6825-3_8"
+  },
+  {
+    "id": "pub-2f4da91e178f",
+    "text": "Xiang, J., Pan, Z., Wang, B., Xiang, R., Liu, H., Li, M.*. A Monocular Vision-based Robotic Arm Teleoperation Method for Human Arm Configuration Imitation. 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025. Link",
+    "title": "A Monocular Vision-based Robotic Arm Teleoperation Method for Human Arm Configuration Imitation",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/11246483"
+  },
+  {
+    "id": "pub-6aac0007af1d",
+    "text": "Xiang, R.#, Ye, Y.#, Wang, X., Xiang, J., Liu, H., Li, M.*. A Partition-Learning-Selection-Augmentation (PLSA) Framework to Solve Forward Kinematics of Parallel Robots. 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025. Link",
+    "title": "A Partition-Learning-Selection-Augmentation (PLSA) Framework to Solve Forward Kinematics of Parallel Robots",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/11247459"
+  },
+  {
+    "id": "pub-08b657a4ca3d",
+    "text": "Tang, Z., Sun, B., He, S., Hong, Y., Yu, D., Liu, Z., Li, M., Chen, B., Zhao, S.*. MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image. 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Daejeon, Republic of Korea, 2025. (CCF-A) Link",
+    "title": "MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-04927-8_35"
+  },
+  {
+    "id": "pub-2b980e95fbef",
+    "text": "He, S., Hu, E., Tang, Z., Chen, B., Yu, D., Hong, Y., Liu, Z., Li, M., Liu, L., Zhao, S.*. MedSoft-Diffusion: Medical Semantic-Guided Diffusion Model with Soft Mask Conditioning for Vertebral Disease Diagnosis. 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Daejeon, Republic of Korea, 2025. (CCF-A) Link",
+    "title": "MedSoft-Diffusion: Medical Semantic-Guided Diffusion Model with Soft Mask Conditioning for Vertebral Disease Diagnosis",
+    "year": "2025",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-05182-0_33"
+  },
+  {
+    "id": "pub-ca61df5924df",
+    "text": "Zhang, J.#, Wang, B.#, Pan, Z.#, Li, W., Li, M.*. Automatic Field of View Adjustment of an RCM Constraint-Free Continuum Laparoscopic Robot. 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Abu Dhabi, 2024. Link",
+    "title": "Automatic Field of View Adjustment of an RCM Constraint-Free Continuum Laparoscopic Robot",
+    "year": "2024",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/10802132"
+  },
+  {
+    "id": "pub-70f6f03b2972",
+    "text": "Zhang, J.#, Yuan, J.#, Ye, Y., Wang, X., Wu, X., Pan, Z., Li, M.*. Path Planning for Concentric Surgical Needles based on Artificial Potential Field. 2024 China Automation Congress (CAC), Qingdao, China, 2024. Link",
+    "title": "Path Planning for Concentric Surgical Needles based on Artificial Potential Field",
+    "year": "2024",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10865658"
+  },
+  {
+    "id": "pub-13da2d3ff4c1",
+    "text": "Xiang, J., Xiang, R., Wang, J., Wang, B., Ye, Y., Wang, X., Li, M.*. Vision-based Non-anthropomorphic Robot Teleoperation Considering Human Arm Configuration. 2024 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Guiyang, China, 2024. Link",
+    "title": "Vision-based Non-anthropomorphic Robot Teleoperation Considering Human Arm Configuration",
+    "year": "2024",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-96-3013-4_33"
+  },
+  {
+    "id": "pub-488a538fc0fc",
+    "text": "Wang, B., Li, W., Zhang, J., Pan, Z., Wang, X., Ye, Y., Wang, J. Li, M.*. A Visual Simulation Platform for Automatic Field-of-View Adjustment Algorithm Optimization of a Tendon-driven Continuum Laparoscope. 2024 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Guiyang, China, 2024. Link",
+    "title": "A Visual Simulation Platform for Automatic Field-of-View Adjustment Algorithm Optimization of a Tendon-driven Continuum Laparoscope",
+    "year": "2024",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-96-3013-4_11"
+  },
+  {
+    "id": "pub-d414d8fcdda5",
+    "text": "Xiang, R., Xiang, J., Wang, B., Li, M.*. A Modularly Designed Miniature Fluidic Power Source for Soft Robots. 2024 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Guiyang, China, 2024. Link",
+    "title": "A Modularly Designed Miniature Fluidic Power Source for Soft Robots",
+    "year": "2024",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-96-3013-4_1"
+  },
+  {
+    "id": "pub-e7fc015714cd",
+    "text": "Li, M., Cai, M., Chen, Y., Ye, Y., Wang, J., Pan, Z.*. A Novel MRI-Compatible Rotary Encoder: Design and Evaluation. 2024 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Guiyang, China, 2024. Link",
+    "title": "A Novel MRI-Compatible Rotary Encoder: Design and Evaluation",
+    "year": "2024",
+    "category": "Conference Papers",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-96-3013-4_9"
+  },
+  {
+    "id": "pub-629188778541",
+    "text": "Li, M.#, Zhu, J.#, Huang, Z., Gou, C.*. Imitating the Human Visual System for Scanpath Predicting. 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, 2024. (CCF-B) Link",
+    "title": "Imitating the Human Visual System for Scanpath Predicting",
+    "year": "2024",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10447354"
+  },
+  {
+    "id": "pub-b45783c3b12b",
+    "text": "Wang, X., Ye, Y., Pan, Z., Wang, J., Guo, R., Li, M.*. Design and Kinematic Analysis of a 6-DoF Parallel Robot for Image-guided Surgery. 2023 China Automation Congress (CAC), Chongqing, China, 2023. Link",
+    "title": "Design and Kinematic Analysis of a 6-DoF Parallel Robot for Image-guided Surgery",
+    "year": "2023",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10450921"
+  },
+  {
+    "id": "pub-5588b1760b35",
+    "text": "Li, Z., Wang, J., Pan, Z., Guo, R., Li, M.*. A State Graph Generation and Control Optimization Method for Vision-based Collaborative Robot. 2023 China Automation Congress (CAC), Chongqing, China, 2023. Link",
+    "title": "A State Graph Generation and Control Optimization Method for Vision-based Collaborative Robot",
+    "year": "2023",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10451568"
+  },
+  {
+    "id": "pub-6422fc947f81",
+    "text": "Zeng, W., Li, M.*, Chian, Y.*. DEGAT: A Graph Neural Network Algorithm Based on Dynamic Attention Mechanism for Molecular Property Prediction. 2023 13th International Conference on Biomedical Engineering and Technology (ICBET), Tokyo, Japan, 2023. Link",
+    "title": "DEGAT: A Graph Neural Network Algorithm Based on Dynamic Attention Mechanism for Molecular Property Prediction",
+    "year": "2023",
+    "category": "Conference Papers",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3620679.3620689"
+  },
+  {
+    "id": "pub-ebd97bf61e54",
+    "text": "Zhou, Y, Tan G., Li, M., Gou, C.*. Learning from Easy to Hard Pairs: Multi-step Reasoning Network for Human-Object Interaction Detection. 31st ACM International Conference on Multimedia (MM 2023), Ottawa, ON, Canada, 2023. (CCF-A) Link",
+    "title": "Zhou, Y, Tan G., Li, M., Gou, C.. Learning from Easy to Hard Pairs: Multi-step Reasoning Network for Human-Object Interaction Detection",
+    "year": "2023",
+    "category": "Conference Papers",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3581783.3612581"
+  },
+  {
+    "id": "pub-29cfe63e7878",
+    "text": "Wang, J., Pan, Z., Xiang, J., Jia, G., Luo, W., Li, M.*. Design and Modeling of a 6-DoF Parallel Mechanism for MRI-guided Surgery. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Changsha, China, 2023. Link",
+    "title": "Design and Modeling of a 6-DoF Parallel Mechanism for MRI-guided Surgery",
+    "year": "2023",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10242704"
+  },
+  {
+    "id": "pub-6ee41cbfda07",
+    "text": "Pan, Z., Jia, G., Zhu, J., Wang, J., Luo, W., Li, M.*. Design and Implementation of A Novel 4-DoF Robot for Assisted Needle Puncture Deployment. 2023 International Conference on Frontiers of Robotics and Software Engineering (FRSE), Changsha, China, 2023. (Best Paper Award). Link",
+    "title": "Design and Implementation of A Novel 4-DoF Robot for Assisted Needle Puncture Deployment",
+    "year": "2023",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10242778"
+  },
+  {
+    "id": "pub-ec5f8893efd0",
+    "text": "Pan, Z., Li, M.*. Path Planning for Collaborative Robot under Complex Biomedical Lab Environment. 2022 7th International Conference on Control, Robotics and Cybernetics, Zhanjiang, China, 2022. (Excellent Presentation Award). Link",
+    "title": "Path Planning for Collaborative Robot under Complex Biomedical Lab Environment",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10041198/"
+  },
+  {
+    "id": "pub-bd852f1385e0",
+    "text": "Li, M.*#, Zhang, J.#, Wu, X., Yuan, J., Wang, X., Ye, Y., Ding, B.. Design, Modeling, and Experimental Characterization of a Fast Additively Manufacturable MRI-Compatible Pneumatic Motor for Surgical Robots. 2022 Global Fluid Power Society PhD Symposium (GFPS), Italy, 2022. Link",
+    "title": "Design, Modeling, and Experimental Characterization of a Fast Additively Manufacturable MRI-Compatible Pneumatic Motor for Surgical Robots",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://www.riverpublishers.com/research_article_details.php?book_id=1179&cid=9"
+  },
+  {
+    "id": "pub-a77f67a58c97",
+    "text": "He, G., Ding, B.*, Li, M., Rao, Z., Yang, Y.. V-tube the First Prototype of Pneumatic Actuated Soft Nasal Swab for COVID-19 Screening. 2022 China Automation Congress (CAC), Xiamen, China, 2022. Link",
+    "title": "V-tube the First Prototype of Pneumatic Actuated Soft Nasal Swab for COVID-19 Screening",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/10054764"
+  },
+  {
+    "id": "pub-a2e7ac0c1b0a",
+    "text": "Ye, Y., Yuan, J., Zhang, J., Wu, X., Wang, X., Ding, B., Li, M.*.Kinematic Modeling of an MRI-Compatible Concentric Steerable Needle Robot based on Screw Theory. 2022 China Automation Congress (CAC), Xiamen, China, 2022. Link",
+    "title": "Kinematic Modeling of an MRI-Compatible Concentric Steerable Needle Robot based on Screw Theory",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/10055278"
+  },
+  {
+    "id": "pub-7d39b0aa72f6",
+    "text": "Wang, X., Wu, X., Zhang, J., Yuan, J., Ye, Y., Ding, B., Li, M.*. A Model based Global Stable Control for Pneumatic Pistons with Long Transmission Air Hoses. 2022 China Automation Congress (CAC), Xiamen, China, 2022. Link",
+    "title": "A Model based Global Stable Control for Pneumatic Pistons with Long Transmission Air Hoses",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/10055409"
+  },
+  {
+    "id": "pub-4a92a5b3311e",
+    "text": "Zhu, J.#, Li, M.#, Yu, Y., Gou, C.*. A Joint Cascaded Framework for Simultaneous Eye State Eye Center and Gaze Estimation. 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, Quebec, Canada, 2022. (CCF-C) Link",
+    "title": "A Joint Cascaded Framework for Simultaneous Eye State Eye Center and Gaze Estimation",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/9956312"
+  },
+  {
+    "id": "pub-7eebf147100c",
+    "text": "Li, M.*. A Novel NDI/INDI based Guidance Law for Fixed Wing Aircrafts: A Straight Line Trajectory Case. AIAA AVIATION 2022 Forum, Chicago, IL, 2022. Link",
+    "title": "A Novel NDI/INDI based Guidance Law for Fixed Wing Aircrafts: A Straight Line Trajectory Case",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://arc.aiaa.org/doi/full/10.2514/6.2022-3645"
+  },
+  {
+    "id": "pub-728dff54a0f8",
+    "text": "Jia, G., Ding, B., Li, M.*. Automatic Traffic Safety Alert System for Pedestrians. 22nd COTA International Conference of Transportation Professionals, Changsha, China, 2022. Link",
+    "title": "Automatic Traffic Safety Alert System for Pedestrians",
+    "year": "2022",
+    "category": "Conference Papers",
+    "url": "https://ascelibrary.org/doi/abs/10.1061/9780784484265.024"
+  },
+  {
+    "id": "pub-e0c85b8f5782",
+    "text": "Li, M.*, Li, J., Tang, Y., Sun, S. An Extended INDI Approach and Application to Pitch Rate Control Laws Design of an Aircraft. AIAA AVIATION 2021 Forum, Virtual Event, 2021. Link",
+    "title": "An Extended INDI Approach and Application to Pitch Rate Control Laws Design of an Aircraft",
+    "year": "2021",
+    "category": "Conference Papers",
+    "url": "https://arc.aiaa.org/doi/10.2514/6.2021-3005"
+  },
+  {
+    "id": "pub-a4b47cf3e9d8",
+    "text": "Jia, G., Ding, B., Li, M.*. Mathematical Derivation and Simulational Verification for Aggressive Quadrotor Perching Control. 2021 China Automation Congress (CAC), Beijing, China, 2021. Link",
+    "title": "Mathematical Derivation and Simulational Verification for Aggressive Quadrotor Perching Control",
+    "year": "2021",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/9728145"
+  },
+  {
+    "id": "pub-9f979e0e2a9c",
+    "text": "Yuan, Y., Li, C., Gu, B., Li, M., Ding, B.*. A Novel Hopping Height Controller with Positive Velocity Feedback for Hydraulic Actuated Legged Robot. 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO), Sanya, China, 2021. Link",
+    "title": "A Novel Hopping Height Controller with Positive Velocity Feedback for Hydraulic Actuated Legged Robot",
+    "year": "2021",
+    "category": "Conference Papers",
+    "url": "https://ieeexplore.ieee.org/document/9739606"
+  },
+  {
+    "id": "pub-eb1d6b316f83",
+    "text": "Foss, R., Li, M., Barth, E., Stelson, K., Van de Ven, J.*. Addressing Valves With Pressure Ripple. ASME/BATH Symposium on Fluid Power and Motion Control (FPMC), BATH, UK, 2018. Link",
+    "title": "Addressing Valves With Pressure Ripple",
+    "year": "2018",
+    "category": "Conference Papers",
+    "url": "https://asmedigitalcollection.asme.org/FPST/proceedings-abstract/FPMC2018/51968/271195"
+  },
+  {
+    "id": "pub-deca68ae93dd",
+    "text": "Li, M., Foss, R., Stelson, K., Van de Ven, J., Barth, E.*. Dynamic Model of a Novel Alternating Flow (AF) Hydraulic Pump. ASME/BATH Symposium on Fluid Power and Motion Control (FPMC), Sarasota, FL, 2017. Link",
+    "title": "Dynamic Model of a Novel Alternating Flow (AF) Hydraulic Pump",
+    "year": "2017",
+    "category": "Conference Papers",
+    "url": "https://asmedigitalcollection.asme.org/FPST/proceedings-abstract/FPMC2017/V001T01A020/233829"
+  },
+  {
+    "id": "pub-80f4c7134dbc",
+    "text": "Foss, R., Li, M., Stelson, K., Barth, E., Van de Ven, J.*. Experimental Studies of a Novel Alternating Flow (AF) Hydraulic Pump. ASME/BATH Symposium on Fluid Power and Motion Control (FPMC), Sarasota, FL, 2017. Link",
+    "title": "Experimental Studies of a Novel Alternating Flow (AF) Hydraulic Pump",
+    "year": "2017",
+    "category": "Conference Papers",
+    "url": "https://asmedigitalcollection.asme.org/FPST/proceedings-abstract/FPMC2017/58332/233786"
+  },
+  {
+    "id": "pub-4fdd7da90d1a",
+    "text": "Li, M., Foss, R., Stelson, K., Van de Ven, J., Barth, E.. A Design Optimization Model for an Alternating Flow (AF) Hydraulic Pump Based on First Principles. ASME Dynamic Systems and Control Conference (DSCC), Tysons, VI, 2017. Link",
+    "title": "A Design Optimization Model for an Alternating Flow (AF) Hydraulic Pump Based on First Principles",
+    "year": "2017",
+    "category": "Conference Papers",
+    "url": "https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2017/58295/454976"
+  },
+  {
+    "id": "pub-6361f96228b2",
+    "text": "Li, M., Foss, R., Stelson, K., Barth, E., Van de Ven, J.*. Variable Displacement Alternating Flow Hydraulic Pump. 10th JFPS International Symposium on Fluid Power (JFPS), Fukuoka, Japan, 2017. Link",
+    "title": "Variable Displacement Alternating Flow Hydraulic Pump",
+    "year": "2017",
+    "category": "Conference Papers",
+    "url": "https://confit.atlas.jp/guide/event/jfps2017/subject/2A08/detail?lang=en"
+  },
+  {
+    "id": "pub-bc215573c59e",
+    "text": "Li, M., Peters, R.*. Skill Transfer Between Industrial Robots by Learning from Demonstration. DEStech Transactions on Computer Science and Engineering, AICE-NCS, Wuhan, China, 2016. Link",
+    "title": "Skill Transfer Between Industrial Robots by Learning from Demonstration",
+    "year": "2016",
+    "category": "Conference Papers",
+    "url": "https://scispace.com/papers/skill-transfer-between-industrial-robots-by-learning-from-2paccxtvup"
+  },
+  {
+    "id": "pub-7e24c489f56d",
+    "text": "Wang, Z., Hu, X., Li, M.*, Ying, S.. Mobile Phone User Interface Function and Iterplay Design Exploration based on Psychological Principles. Environment, Energy and Sustainable Development, 2013. (Book Chapter). Link",
+    "title": "Mobile Phone User Interface Function and Iterplay Design Exploration based on Psychological Principles",
+    "year": "2013",
+    "category": "Conference Papers",
+    "url": "https://www.taylorfrancis.com/chapters/edit/10.1201/b16320-122/mobile-phone-user-interface-function-interplay-design-exploration-based-psychological-principles-wang-hu-li-ying"
+  },
+  {
+    "id": "pub-e93ee9ee40f8",
+    "text": "Walk, R., Li, M., Roka-Moiia, Y., Barth, E., Slepian, M.*. Standardizing MCS testing loop design: Effect of constituent components on overall system thrombogenicity. 27th Annual Meeting of the International Society for Mechanical Circulatory Support, ISMCS, Italy, Bologna, 2019.",
+    "title": "Standardizing MCS testing loop design: Effect of constituent components on overall system thrombogenicity",
+    "year": "2019",
+    "category": "Conference Abstracts",
+    "url": ""
+  },
+  {
+    "id": "pub-ce95a4cf712a",
+    "text": "Li, M., Howard, J., Zheng, Z., Slepian, M.*, Barth, E.. Compact linear peristalsis: Non‐pneumatic peristaltic occlusion as a mechanism for blood propulsion. 27th Annual Meeting of the International Society for Mechanical Circulatory Support, ISMCS, Italy, Bologna, 2019.",
+    "title": "Compact linear peristalsis: Non‐pneumatic peristaltic occlusion as a mechanism for blood propulsion",
+    "year": "2019",
+    "category": "Conference Abstracts",
+    "url": ""
+  },
+  {
+    "id": "pub-d6e8b932cdf1",
+    "text": "Li, M., Slepian, M.*, Barth, E.. A real‐time hardware‐in‐the‐loop testing approach of a cardiovascular system + TAH using bond graph technique: “A new way to test things” to improve MCS design. 27th Annual Meeting of the International Society for Mechanical Circulatory Support, ISMCS, Italy, Bologna, 2019.",
+    "title": "A real‐time hardware‐in‐the‐loop testing approach of a cardiovascular system + TAH using bond graph technique: “A new way to test things” to improve MCS design",
+    "year": "2019",
+    "category": "Conference Abstracts",
+    "url": ""
+  },
+  {
+    "id": "pub-2be002ba7f73",
+    "text": "Li, M., Walk, R., Roka-Moiia, Y., Barth, J., Slepian, M.*. Staying Connected in the Loop: Shear Stress Errors Induced by Connector Elements within Pre-Clinical Testing of Ventricular Assist Device Thrombogenicity 65th Annual Conference of American Society for Artificial Internal Organs, ASAIO, San Francisco, CA, 2019.",
+    "title": "Staying Connected in the Loop: Shear Stress Errors Induced by Connector Elements within Pre-Clinical Testing of Ventricular Assist Device Thrombogenicity",
+    "year": "2019",
+    "category": "Conference Abstracts",
+    "url": ""
+  },
+  {
+    "id": "pub-e4403294ffb7",
+    "text": "Li, M., Barth, E., Slepian, M.*. Bond Graph Modelling of a Cardiovascular System + TAH: A New Way to Look at Things\" to Improve System Design. 26th Annual Meeting of the International Society for Mechanical Circulatory Support, ISMCS, Tokyo, Japan, 2018.",
+    "title": "Bond Graph Modelling of a Cardiovascular System + TAH: A New Way to Look at Things\" to Improve System Design",
+    "year": "2018",
+    "category": "Conference Abstracts",
+    "url": ""
+  },
+  {
+    "id": "pub-5663693287cf",
+    "text": "Li, M., Walk, R., Barth, E., Slepian, M.*. \"There Are Loops, And Then There Are Loops\": Loop Design and Constituent Components Introduce Artifacts Impacting Overall System Thrombogenicity. 26th Annual Meeting of the International Society for Mechanical Circulatory Support, ISMCS, Tokyo, Japan, 2018.",
+    "title": "\"There Are Loops, And Then There Are Loops\": Loop Design and Constituent Components Introduce Artifacts Impacting Overall System Thrombogenicity",
+    "year": "2018",
+    "category": "Conference Abstracts",
+    "url": ""
+  },
+  {
+    "id": "pub-189b0b869e02",
+    "text": "Walk, R., Li, M., Barth, E., Slepian M.*. Loop Design and Constituent Components Introduce Artifacts Impacting Overall System Thrombogenicity. 2018 Biomedical Engineering Society Annual Meeting, BMES, Atlanta, GA, 2018.",
+    "title": "Loop Design and Constituent Components Introduce Artifacts Impacting Overall System Thrombogenicity",
+    "year": "2018",
+    "category": "Conference Abstracts",
+    "url": ""
+  },
+  {
+    "id": "pub-0869f7175eab",
+    "text": "Slepian, M.*, Barth, E., Li, M.. Valveless Devices for Pulsatile Fluid Flow. Arizona Board of Regents on Behalf ot the University of Arizona, Tucson, AZ (US) and Vanderbilt University, Nashville, TN (US), 2024. Pub. NO.: US 2024/0011485A1. (US Patent, Granted)",
+    "title": "Valveless Devices for Pulsatile Fluid Flow",
+    "year": "2024",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-80ed9deb61a0",
+    "text": "Li, M.*, Zhang, J., Wang, B., Xiang, J.. Automatic Visual Field Adjustment Method and System for Laparoscopic Robot Based on Visual Assistance. Sun Yat-Sen University (CN), 202510596892.4 (CN Patent, Filed)",
+    "title": "Automatic Visual Field Adjustment Method and System for Laparoscopic Robot Based on Visual Assistance",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-a26d6632a928",
+    "text": "Li, M.*, Wang, B., Zhang, J., Pan, Z.. A Cable-Driven Laparoscope Ensuring Hand-Eye Consistency Without RCM Constraints and Its Operation Method. Sun Yat-Sen University (CN), 202411185831.0 (CN Patent, Granted)",
+    "title": "A Cable-Driven Laparoscope Ensuring Hand-Eye Consistency Without RCM Constraints and Its Operation Method",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-1e5df7b1cf87",
+    "text": "Li, M.*, Pan, Z.. Pneumatic Motor Control Circuit, Servo Controller, and Pneumatic Motor Servo System. Sun Yat-Sen University (CN), 202411160923.3 (CN Patent, Filed)",
+    "title": "Pneumatic Motor Control Circuit, Servo Controller, and Pneumatic Motor Servo System",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-7f59f3dd2eed",
+    "text": "Li, M.*, Pan, Z.. An MRI-Compatible Linear Pneumatic Motor. Sun Yat-Sen University (CN), 202311379271.8 (CN Patent, Granted)",
+    "title": "An MRI-Compatible Linear Pneumatic Motor",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-331a87a7ffe7",
+    "text": "Gou, C.*, Zhu, J., Yu, Y., Li, M.*. A gaze tracking method based on coupled cascade regression. Sun Yat-Sen University (CN), 202210504365.2 (CN Patent, Granted)",
+    "title": "A gaze tracking method based on coupled cascade regression",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-229213e93c47",
+    "text": "Li, M.*, Ye, Y., Zhang, J., Wang, X., Yuan, J., Wu, X.. A Novel MRI-Compatible Pneumatic Motor Equipped with Planetary Harmonic Reducer. Sun Yat-Sen University (CN), ZL202211237897.0 (CN Patent, Granted)",
+    "title": "A Novel MRI-Compatible Pneumatic Motor Equipped with Planetary Harmonic Reducer",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-365ec3416327",
+    "text": "Li, M.*, Wang, X., Wu, X., Zhang, J., Yuan, J., Ye, Y.. A Flexible Harmonic Drive Made of Additive Manufacturing MRI-Compatible Pneumatic Motor. Sun Yat-Sen University (CN), ZL202210917259.7 (CN Patent, Granted)",
+    "title": "A Flexible Harmonic Drive Made of Additive Manufacturing MRI-Compatible Pneumatic Motor",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-cf8981bd303f",
+    "text": "Li, M.*, Wu, X., Yuan, J., Zhang, J., Ye, Y., Wang, X.. An MRI-Compatible Rotary Encoder. Sun Yat-Sen University (CN), ZL202211239878.1 (CN Patent, Granted)",
+    "title": "An MRI-Compatible Rotary Encoder",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  },
+  {
+    "id": "pub-f17e14dcf56d",
+    "text": "Li, M.*, Qiu, Q., Ding, B.. A fighter helmet-mounted display and aiming system, method, device, and terminal. Sun Yat-Sen University (CN), ZL202210017624.9 (CN Patent, Granted)",
+    "title": "A fighter helmet-mounted display and aiming system, method, device, and terminal",
+    "year": "",
+    "category": "Patent",
+    "url": ""
+  }
+]
